@@ -63,19 +63,20 @@ POAP-KU/
 ## 🎨 Screenshots
 
 ### 1. Wallet Connected + UI
-![Connected](images/block1.1.png)
+![Connected](poap-ku-project/assets/block1.1.png)
+
 
 ### 2. Token URI Input & Mint
-![Input](.assets/images/block1.2.png)
+![Input](poap-ku-project/assets/block1.2.png)
 
 ### 3. Mint Confirmed
-![Success](.assets/images/block1.3.png)
+![Success](poap-ku-project/assets/block1.3.png)
 
 ### 4. MetaMask Activity
-![Activity](.assets/images/block2.1.png)
+![Activity](poap-ku-project/assets/block2.1.png)
 
 ### 5. NFTs in MetaMask
-![NFTs](.assets/images/block3.1.png)
+![NFTs](poap-ku-project/assets/block3.1.png)
 
 ---
 
